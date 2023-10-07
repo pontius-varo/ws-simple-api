@@ -1,0 +1,14 @@
+{
+    "mainFirstName" : "Zaryan",
+    "mainLastName" : "Ponce",
+    "additionalPersons" : [
+        {
+            "firstName" : "Polina",
+            "lastName" : "Svitsova"
+        },
+        {
+            "firstName" : "Dima",
+            "lastName" : "Svitsova"
+        }
+    ]
+}
